@@ -1,0 +1,5 @@
+PORT=8888
+USERNAME=admin
+PASSWORD=password
+TOKEN=good_token
+USER_ID=2b618b01-3c64-4816-abfc-cc95fec8b67e
